@@ -1,2 +1,3 @@
 # Algorithms_C
-Algorithms assignment in C - ElecEng Uni of York Year 2
+Algorithms assignment for the 'Algorithms and Numerical Methods' 2nd year Electronic Engineering module at the University of York (2019).
+Coded in C using CLion.
