@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1550410571 source:m:\algorithms_assignment\algorithms_dijkstra_assignment_y3857872\src\arraylist.c
+	"list.h"
+
+1550410856 m:\algorithms_assignment\algorithms_dijkstra_assignment_y3857872\src\list.h
+	"network.h"
+
+1550410786 m:\algorithms_assignment\algorithms_dijkstra_assignment_y3857872\src\network.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<time.h>
+	"list.h"
+	"stack.h"
+
+1550410907 m:\algorithms_assignment\algorithms_dijkstra_assignment_y3857872\src\stack.h
+	<math.h>
+	"network.h"
+
+1550411381 source:m:\algorithms_assignment\algorithms_dijkstra_assignment_y3857872\src\graphnetwork.c
+	"network.h"
+
+1550412476 source:m:\algorithms_assignment\algorithms_dijkstra_assignment_y3857872\src\main.c
+	"network.h"
+
+1550410666 source:m:\algorithms_assignment\algorithms_dijkstra_assignment_y3857872\src\prioritystack.c
+	"stack.h"
+
+1550410572 source:e:\uni_year2\anm\algorithms\algor_assignment\algorithms_dijkstra_program_y3857872\src\arraylist.c
+	"list.h"
+
+1550410858 e:\uni_year2\anm\algorithms\algor_assignment\algorithms_dijkstra_program_y3857872\src\list.h
+	"network.h"
+
+1550410788 e:\uni_year2\anm\algorithms\algor_assignment\algorithms_dijkstra_program_y3857872\src\network.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<time.h>
+	"list.h"
+	"stack.h"
+
+1550410908 e:\uni_year2\anm\algorithms\algor_assignment\algorithms_dijkstra_program_y3857872\src\stack.h
+	<math.h>
+	"network.h"
+
+1550411382 source:e:\uni_year2\anm\algorithms\algor_assignment\algorithms_dijkstra_program_y3857872\src\graphnetwork.c
+	"network.h"
+
+1550412478 source:e:\uni_year2\anm\algorithms\algor_assignment\algorithms_dijkstra_program_y3857872\src\main.c
+	"network.h"
+
+1550410668 source:e:\uni_year2\anm\algorithms\algor_assignment\algorithms_dijkstra_program_y3857872\src\prioritystack.c
+	"stack.h"
+

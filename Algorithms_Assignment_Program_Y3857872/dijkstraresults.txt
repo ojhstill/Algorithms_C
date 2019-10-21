@@ -1,0 +1,32 @@
+Testing 'dijkstra' function error paths:
+- DIJKSTRA'S ALGORITHM -
+Shortest path between 'Edinburgh' and 'Coventry'.
+PATH RESULTS:
+	Path not found! - Cities are unreachable.
+ALGORITHM COMPLETED
+
+*** DIJKSTRA'S ALGORITHM - START ***
+- DIJKSTRA'S ALGORITHM -
+Shortest path between 'Leicester' and 'Moffat'.
+PATH RESULTS:
+	Path: [ Leicester -(100km)-> Sheffield -(53km)-> Leeds -(116km)-> Blackpool -(140km)-> Carlisle -(65km)-> Moffat ]
+	The distance of this path is 474km.
+ALGORITHM COMPLETE - (0.000000s)
+
+- DIJKSTRA'S ALGORITHM -
+Shortest path between 'Hull' and 'Oxford'.
+PATH RESULTS:
+	Path: [ Hull -(145km)-> Nottingham -(77km)-> Birmingham -(103km)-> Oxford ]
+	The distance of this path is 325km.
+ALGORITHM COMPLETE - (0.000000s)
+
+- DIJKSTRA'S ALGORITHM -
+Shortest path between 'Lincoln' and 'Bristol'.
+PATH RESULTS:
+	Path: [ Lincoln -(82km)-> Leicester -(63km)-> Birmingham -(139km)-> Bristol ]
+	The distance of this path is 284km.
+ALGORITHM COMPLETE - (0.000000s)
+
+(3 Iterations - Time Duration 0.000000s)
+
+*** DIJKSTRA'S ALGORITHM - COMPLETE ***
