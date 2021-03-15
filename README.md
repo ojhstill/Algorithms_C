@@ -1,6 +1,6 @@
 # Dijkstra's Algorithms in C
 
-Implementation of Dijkstra's Algorithm for the 'Algorithms and Numerical Methods' Module - ElecEng, University of York, Year 2 (Feb 2019).
+Implementation of Dijkstra's Algorithm for the second year 'Algorithms and Numerical Methods' Module - Department of Electronic Engineering, University of York (Spring Term 2019).
 
 Coded in CLion and ported to Code::Blocks.
 
